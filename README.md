@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Angular, TypeScript
 
-💬 Ask me about JavaScript, HTML, SCSS, Angular, React
+💬 Ask me about JavaScript, HTML, SCSS, Angular, Vue
 
 ⚡ Fun fact: I built a Hangman game using JavaScript, HTML, and CSS!
 
